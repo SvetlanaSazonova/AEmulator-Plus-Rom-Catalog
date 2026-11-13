@@ -2,6 +2,7 @@
 # If you want to submit a ROM to this, please make an issue on github.com/somerandomusernam2/AEmulator-Plus or github.com/somerandomusernam2/AEmulator-Plus-Rom-Catalog or github.com/SvetlanaSazonova/AEmulator-Plus-Rom-Catalog
 
 [Android 1.x-3.x]
+HTC Nexus One;2.1;AOSP;1;https://archive.org/download/Nexus_One_Archive/Passion-ERD79.7z
 
 [Android 4.x]
 Sony Xperia ZR;4.4.2;Xperia UI;1;Quite unstable, still has bugs, may require tinkering with VM settings to get UI launched;https://dumpster.ralsei.tech/drel/AESSRomCatalog/SonyXperiaZRROM.zip
