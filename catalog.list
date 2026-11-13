@@ -1,0 +1,15 @@
+# AEmulator Plus - Official ROM catalog
+# If you want to submit a ROM to this, please make an issue on github.com/somerandomusernam2/AEmulator-Plus or github.com/somerandomusernam2/AEmulator-Plus-Rom-Catalog
+
+[Android 1.x-3.x]
+Sony Xperia ZR;4.4.2;Xperia UI;1;Quite unstable, still has bugs, may require tinkering with VM settings to get UI launched;https://dumpster.ralsei.tech/drel/AESSRomCatalog/SonyXperiaZRROM.zip
+
+[Android 4.x]
+
+[Android 5.x-7.x]
+
+[Android 8.x-11]
+
+[Android 9-12]
+
+[Android 13-17]
